@@ -1,6 +1,6 @@
 # Differentially Private Selection using Enhanced Sensitivity Concepts
 
-We propose novel differentially private selection mechanisms using enhanced sensitivity concepts. In the paper, we first enhance concepts of global sensitivity and smooth sensitivity to handle changes in the scores of both the target output candidate and the others simultaneously. We then propose direction-aware concepts that take into account the direction of changes as well. We further present enhanced concepts that can be employed when using a one-sided distribution. The proposed concepts are more strict than existing ones, leading to lower amount of noise and higher output accuracy.
+We propose novel differentially private selection mechanisms using enhanced sensitivity concepts. In the paper, we first enhance concepts of global and smooth sensitivity to simultaneously handle changes in the scores of both the target and the other candidates. We then propose direction-aware concepts that consider the direction of changes as well. We further present enhanced concepts that can be employed when using a one-sided distribution. The proposed concepts are stricter than existing ones, leading to lower amount of noise and higher output accuracy.
 
 In "beta_evaluation" folder, we pre-evaluated the value of $l$ for the proposed mechanisms.
 
