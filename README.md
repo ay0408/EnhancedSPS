@@ -4,7 +4,7 @@ We propose novel differentially private selection mechanisms using enhanced sens
 
 In "beta_evaluation" folder, we pre-evaluated the value of $l$ for the proposed mechanisms.
 
-In "Accuracy" folder, we compared the accuracy of our mechanisms with existing mechanisms, using simulation data for TDT statistics. The results show that our mechanisms can provide the highest accuracy.
+In "Accuracy" folder, we compared the accuracy of our mechanisms with existing mechanisms, using simulation data (generated randomly and based on a real result) for TDT statistics. The results show that our mechanisms can provide the highest accuracy.
 
 In "distribution_evaluation" folder, we investigated suitable values of $\gamma$ and $\zeta$ in the probability distributions.
 
