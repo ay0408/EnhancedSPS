@@ -13,7 +13,7 @@ Supplements.pdf provides the proofs and omitted definitions in the main paper.
 
 ## Note
 
-For details of our methods and discussion, please see our paper entitled "Differentially Private Selection using Enhanced Sensitivity Concepts".
+For details of our methods and discussion, please see our paper entitled "Differentially Private Selection using Enhanced Sensitivity Concepts" (to appear at Allerton Conference 2026).
 
 ### Contact
 Akito Yamamoto
